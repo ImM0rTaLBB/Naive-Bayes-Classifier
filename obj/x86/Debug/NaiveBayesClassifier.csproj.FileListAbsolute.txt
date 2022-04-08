@@ -1,0 +1,6 @@
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.exe
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\bin\Debug\ProbabilityFunctions.pdb
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csprojResolveAssemblyReference.cache
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\obj\x86\Debug\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.exe
+C:\Users\ImM0rTaLBB\Desktop\NaiveBayesClassifier\obj\x86\Debug\ProbabilityFunctions.pdb
